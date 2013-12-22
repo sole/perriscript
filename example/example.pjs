@@ -35,11 +35,11 @@ pero
     porfi consola.ladra con 'vaya imposible'
 guau
 
-mogollon woof es 'solo perris' y gato no 'perri' o gato es 'nada perri'
-    porfi consola.ladra con {vaya: 'doge'}
+mogollon ladrido es 'solo perris' y gato no 'perri' o gato es 'nada perri'
+    porfi consola.ladra con {vaya: 'perri'}
 guau
 
-ke woof es 'solo perris' y gato no 'perri' o gato es 'no un perri'
+ke ladrido es 'solo perris' y gato no 'perri' o gato es 'no un perri'
     porfi consola.ladra con {vaya: 'perri', guau: 'perriii'}
 guau
 
