@@ -1,0 +1,83 @@
+shh ESTO ES PERRISCRIPT
+
+callao
+    dogescript was created by Zach Bruggeman
+    and has been improved by many contributors
+    vaya appreciate, much thanks, guau
+    perriscript follows dogescript lead
+    muy gracias, guau
+tronando
+
+sargento
+
+hala perriquete
+hala bodrio como chachi
+
+muy dogescript es 'vaya cacao; muy perri-amistoso'
+
+vaya ladrido mucho fulanito menganito zutanito
+    porfi consola.ladra con fulanito
+    vaya anidado
+        porfi consola.ladra con ['hala', 'guau']
+    guau
+    porfi anidado
+guau bar
+
+porfi ladrido con 'multiple', 'perri', 'propiedades guau'
+
+muy gato es 'nada perri'
+
+ke gato es 'perri'
+    porfi consola.ladra con 'guau, vaya trola, muy gato'
+pero ke gato es 'nada perri'
+    porfi consola.ladra con 'muy verdad, vaya creencia, guau'
+pero
+    porfi consola.ladra con 'vaya imposible'
+guau
+
+mogollon woof es 'solo perris' y gato no 'perri' o gato es 'nada perri'
+    porfi consola.ladra con {vaya: 'doge'}
+guau
+
+ke woof es 'solo perris' y gato no 'perri' o gato es 'no un perri'
+    porfi consola.ladra con {vaya: 'perri', guau: 'perriii'}
+guau
+
+mucho muy ladrido como 1 pasa ladrido menor 3 pasa ladrido mas 1
+    porfi consola.ladra con {vaya: 'perri'}
+guau
+
+shh perri style
+muy ciencia es 4
+           mucho  muy hala como 1 pasa hala menor 10 pasa hala mas 1
+    ke hala mayor 2
+                   porfi consola.ladra con {vaya: hala}
+      guau
+                      guau
+
+
+shh encadenando
+muy canvas es porfi d3.select con 'body'&
+hace append con 'canvas'&
+hace attr con 'width', width&
+hace attr con 'height', height
+
+muy regex es estrena RegExp con keyword, 'g'
+muy regex2 es estrena RegExp con 'doge', 'g'
+
+muy arr es estrena Array con 0
+
+obj es estrena Object
+
+module.exports es ladrido
+
+shh example http server
+hala http
+http hace createServer con mucho req res
+   req hace writeHead con 200 {'Content-Type': 'text/plain'}
+   req hace end con 'hala hello\nmucho world'
+guau&
+.porfi listen con 8080
+
+ventanuco.perri es 'hala global, no scope guau'
+muy perrielemento es porfi docuperri.createElement con 'perri'
