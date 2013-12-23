@@ -12,6 +12,8 @@ This is a reimplementation of the best new compile-to-JS language, [Dogescript](
        npm guau
 ```
 
+[Try it out](https://sole.github.io/perriscript/example/GUAUserify/)
+
 
 ### Installation
 
