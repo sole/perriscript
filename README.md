@@ -59,4 +59,6 @@ browserify index.js > bundle.js
 
 Check out `LANGUAGE.md` for some documentation. Otherwise, look at the example files in this repo.
 
+### Log
 
+* **2013-12-28** 0.0.1 Celebrating *El día de los Santos Inocentes*.
