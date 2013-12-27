@@ -12,7 +12,7 @@ This is a reimplementation of the best new compile-to-JS language, [Dogescript](
        npm guau
 ```
 
-[Try it out](https://sole.github.io/perriscript/example/GUAUserify/)
+[Try it out](http://sole.github.io/perriscript/example/GUAUserify/)
 
 
 ### Installation
@@ -41,7 +41,7 @@ Options:
 
 #### Interactive example
 
-Open `example/GUAUserify/index.html` in your browser or browse to https://sole.github.io/perriscript/example/GUAUserify/
+Open `example/GUAUserify/index.html` in your browser or browse to http://sole.github.io/perriscript/example/GUAUserify/
 
 If you make any change in the parser and want to regenerate the bundle, you'll need to install browserify first:
 
