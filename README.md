@@ -30,7 +30,7 @@ This is a reimplementation of the best new compile-to-JS language, [Dogescript](
 Options:
 
 * `--beautify` - Runs the code through a beautifier.
-* `--true-perri` - Implements "true perri" mode, which splits lines by 3 spaces, instead of by newlines. This stays behind a flag until the spacing it exports is identical to non-true-doge mode.
+* `--true-perri` - Implements "true perri" mode, which splits lines by 3 spaces, instead of by newlines. This stays behind a flag until the spacing it exports is identical to non-true-perri mode.
 
 #### Javascript
 
