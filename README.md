@@ -12,7 +12,7 @@ This is a reimplementation of the best new compile-to-JS language, [Dogescript](
        npm guau
 ```
 
-[Try it out](http://sole.github.io/perriscript/example/GUAUserify/)
+[Try it out](http://sole.github.io/perriscript/ejemplos/GUAUserify/)
 
 
 ### Installation
@@ -39,9 +39,9 @@ Options:
 * `beauty` - A boolean, set to true if you want the output to be ran through a beautifier.
 * `truePerri` - A boolean, set to true if you want to enable true-perri mode.
 
-#### Interactive example
+#### Interactive ejemplos
 
-Open `example/GUAUserify/index.html` in your browser or browse to http://sole.github.io/perriscript/example/GUAUserify/
+Open `ejemplos/GUAUserify/index.html` in your browser or browse to http://sole.github.io/perriscript/ejemplos/GUAUserify/
 
 If you make any change in the parser and want to regenerate the bundle, you'll need to install browserify first:
 
@@ -49,7 +49,7 @@ If you make any change in the parser and want to regenerate the bundle, you'll n
 npm install -g browserify
 ```
 
-Then cd to the `example/GUAUserify/` folder and run
+Then cd to the `ejemplos/GUAUserify/` folder and run
 
 ```bash
 browserify index.js > bundle.js
@@ -57,8 +57,9 @@ browserify index.js > bundle.js
 
 ### Language
 
-Check out `LANGUAGE.md` for some documentation. Otherwise, look at the example files in this repo.
+Check out `LANGUAGE.md` for some documentation. Otherwise, look at the ejemplos files in this repo.
 
 ### Log
 
+* **2013-12-29** 0.0.2 Even more Spanglish and less spell-checking! Many guaucias to [Jason Denizac](https://github.com/jden).
 * **2013-12-28** 0.0.1 Celebrating *El día de los Santos Inocentes*.
